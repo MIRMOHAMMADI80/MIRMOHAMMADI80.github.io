@@ -1,23 +1,18 @@
 ---
 layout: posts
-title: My new picture
+title: After going under a waterfall with friends!!!
 ---
 
-## This is my team at Microsoft
+## These are my friends
 People in the picture are:
-- Arul
-- Fai
-- Scott
+- Danial
+- ALI
+- Moeen
 - Me
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/friends.jpg "friends Picture")
 
----
-**Test**: This is atest
+
