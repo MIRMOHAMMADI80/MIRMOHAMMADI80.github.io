@@ -20,7 +20,7 @@ locale                   : "IRAN-MAZANDARAN"
 title                    : "سید امیرحسین میرمحمدی"
 title_separator          : "-"
 name                     : "amirhossein mirmohammadi" 
-description              : "dame dar bade bia too"
+description              : "welcome!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "amirhossein mirmohammadi"
   avatar           : "/assets/images/my profile.jpg"
-  bio              :  I am a computer engineering student at the university of IUST. 
+  bio              :  I am a computer engineering student at the university of Sience & industry. 
   location         : "مازندران"
   email            : amir_mirmohammadi@comp.iust.ac.ir
   twitter: 
